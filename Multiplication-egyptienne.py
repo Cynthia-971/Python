@@ -10,3 +10,4 @@ while x != 0 :
     y = y + y
     x = int(x/2)
 print(z)
+##commentaire
