@@ -1,6 +1,3 @@
-from re import A
-
-
 a = int(input("type a number : "))
 b = int(input("type another number : "))
 x = a
