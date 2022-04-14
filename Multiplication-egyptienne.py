@@ -12,4 +12,4 @@ while x != 0 :
         z = z + y 
     y = y + y
     x = int(x/2)
-    print(z)
+print(z)
